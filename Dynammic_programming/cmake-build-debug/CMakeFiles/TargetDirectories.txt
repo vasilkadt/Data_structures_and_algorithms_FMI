@@ -1,0 +1,3 @@
+/Users/vasilkaterzieva/Desktop/sda/Data_structures_and_algorithms_FMI/Homework_13/cmake-build-debug/CMakeFiles/Homework_13.dir
+/Users/vasilkaterzieva/Desktop/sda/Data_structures_and_algorithms_FMI/Homework_13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vasilkaterzieva/Desktop/sda/Data_structures_and_algorithms_FMI/Homework_13/cmake-build-debug/CMakeFiles/rebuild_cache.dir

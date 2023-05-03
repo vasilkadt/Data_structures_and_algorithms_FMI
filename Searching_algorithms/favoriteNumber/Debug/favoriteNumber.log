@@ -1,0 +1,4 @@
+﻿  favoriteNumber.cpp
+C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\favoriteNumber\favoriteNumber.cpp(67,23): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\favoriteNumber\favoriteNumber.cpp(84,61): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  favoriteNumber.vcxproj -> C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\Debug\favoriteNumber.exe
