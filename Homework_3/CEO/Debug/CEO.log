@@ -1,6 +1,0 @@
-﻿  CEO.cpp
-C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\CEO\CEO.cpp(10,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\CEO\CEO.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\CEO\CEO.cpp(56,12): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
-C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\CEO\CEO.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
-  CEO.vcxproj -> C:\Users\Vasi\Desktop\fmi\kurs2\СДА\Data_structures_and_algorithms_FMI\Homework_3\Debug\CEO.exe
